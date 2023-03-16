@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: #504d4d;
+    color: #fff;
+}
+
+h1, h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.log {
+    text-align: center;
+}
+
+.register {
+    width: 100%;
+    background: #8a8585;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.login {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.Todo {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+.todoContent{
+    margin: 0 auto;
+}
